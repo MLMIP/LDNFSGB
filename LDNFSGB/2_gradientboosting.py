@@ -1,6 +1,15 @@
-'''
-调用库函数
-'''
+"""
+Descirption: The gradientboosting
+Authors: Yuan Zhang, Fei Ye, Dapeng Xiong, Xieping Gao
+Institutions:
+School of Mathematics and Computational Science, Xiangtan University,411105, Xiangtan, China.
+Key Laboratory of Intelligent Computing and Information Processing of Ministry of Education, Xiangtan University, 411105, Xiangtan, China
+Department of Biological Statistics and Computational Biology, Cornell University, 14853, Ithaca, New York, USA.
+Weill Institute for Cell and Molecular Biology, Cornell University, 14853,Ithaca, New York, USA.
+College of Medical Imaging and Inspection, Xiangnan University, Chenzhou 423000, China.
+Date:2020.5
+"""
+
 import csv
 import math
 import random
