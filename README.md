@@ -10,3 +10,7 @@ It is mainly used for prediction of lncRNA-disease association.  At the same tim
 
 
 The original datasets used in this study are available from the corresponding references.
+
+
+References
+Zhang, Y., Ye, F., Xiong, D. et al. LDNFSGB: prediction of long non-coding rna and disease association using network feature similarity and gradient boosting. BMC Bioinformatics 21, 377 (2020). https://doi.org/10.1186/s12859-020-03721-0

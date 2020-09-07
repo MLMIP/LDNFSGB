@@ -1,13 +1,18 @@
 """
-Descirption: Autoencoder
-Authors: Yuan Zhang, Fei Ye, Dapeng Xiong, Xieping Gao
-Institutions:
-School of Mathematics and Computational Science, Xiangtan University,411105, Xiangtan, China.
-Key Laboratory of Intelligent Computing and Information Processing of Ministry of Education, Xiangtan University, 411105, Xiangtan, China
-Department of Biological Statistics and Computational Biology, Cornell University, 14853, Ithaca, New York, USA.
-Weill Institute for Cell and Molecular Biology, Cornell University, 14853,Ithaca, New York, USA.
-College of Medical Imaging and Inspection, Xiangnan University, Chenzhou 423000, China.
-Date:2020.5
+-- Descirption: Autoencoder
+-- Authors: Yuan Zhang, Fei Ye, Dapeng Xiong, Xieping Gao
+-- Institutions:
+      School of Mathematics and Computational Science, Xiangtan University,411105, Xiangtan, China.
+      Key Laboratory of Intelligent Computing and Information Processing of Ministry of Education, Xiangtan University, 411105, Xiangtan, China
+      Department of Biological Statistics and Computational Biology, Cornell University, 14853, Ithaca, New York, USA.
+      Weill Institute for Cell and Molecular Biology, Cornell University, 14853,Ithaca, New York, USA.
+      College of Medical Imaging and Inspection, Xiangnan University, Chenzhou 423000, China.
+-- Date:2020.5
+-- If you want to use this code, please cite this article.
+
+-- Reference:
+      Zhang, Y., Ye, F., Xiong, D. et al. LDNFSGB: prediction of long non-coding rna and disease association using network feature similarity and gradient boosting. BMC Bioinformatics 21, 377 (2020). https://doi.org/10.1186/s12859-020-03721-0
+
 """
 
 import os
